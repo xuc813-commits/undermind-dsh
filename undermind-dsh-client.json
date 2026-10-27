@@ -1,0 +1,16 @@
+{
+  "client_id": "https://xuc813-commits.github.io/undermind-dsh/undermind-dsh-client.json",
+  "client_name": "DeepSeek Harness - Undermind Bridge",
+  "redirect_uris": [
+    "http://127.0.0.1:37891/oauth/callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none",
+  "scope": "mcp"
+}
